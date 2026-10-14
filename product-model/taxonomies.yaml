@@ -1,0 +1,24 @@
+{
+  "scenarioKinds": [
+    {
+      "id": "primary",
+      "name": "Primary",
+      "description": "The established successful path."
+    },
+    {
+      "id": "alternative",
+      "name": "Alternative",
+      "description": "Another supported way to the same kind of result."
+    },
+    {
+      "id": "validation",
+      "name": "Validation",
+      "description": "Refused input, refused actors and unavailable controls."
+    },
+    {
+      "id": "edge",
+      "name": "Edge",
+      "description": "Failures, retries, recovery and other exceptional outcomes."
+    }
+  ]
+}
